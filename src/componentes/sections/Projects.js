@@ -30,8 +30,8 @@ function Projects(){
             title="Meu Portfólio"
             tech="React"
             description="Este é o meu portfólio em React.JS"
-            repo=""
-            site=""
+            repo="https://github.com/odranoeL6/portfolio-react"
+            site="https://portfolio-react-rosy-alpha.vercel.app/"
                 />
             <ButtonB text='Acesse meu repositório' link='https://github.com/odranoeL6?tab=repositories'/>
         </div>
