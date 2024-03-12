@@ -1,4 +1,5 @@
 import ButtonB from '../elements/ButtonB';
+import ButtonC from '../elements/ButtonC';
 import styles from './Projects.module.css';
 import Cards from '../elements/Cards';
 import arquitetura from '../../Images/Projects/arquitetura.svg';
@@ -53,7 +54,7 @@ function Projects(){
             site="https://movie-list-mu-three.vercel.app/"
                 />
 
-            <ButtonB id='button' text='Acesse meu repositório' link='https://github.com/odranoeL6?tab=repositories'/>
+            <ButtonC id='button' text='Acesse meu repositório' link='https://github.com/leodacosta?tab=repositories'/>
         </div>
     )
 }
