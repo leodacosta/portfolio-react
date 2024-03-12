@@ -17,7 +17,7 @@ function Projects(){
             title="Tradição em projetos de arquitetura"
             tech="HTML e CSS"
             description="Desenvolvimento de uma Landing Page para formação em Tecnologia"
-            repo="https://github.com/odranoeL6/projeto-landing-page-arquitetura"
+            repo="https://github.com/leodacosta/projeto-landing-page-arquitetura"
             site="https://projetosdearquitetura-desafio1.netlify.app/"
                 />
             <Cards
@@ -25,7 +25,7 @@ function Projects(){
             title="Landing Page CCXP"
             tech="HTML, CSS e JS"
             description="Desenvolvimento de uma Landing Page para formação em Tecnologia"
-            repo="https://github.com/odranoeL6/Landing-Page-CCXP"
+            repo="https://github.com/leodacosta/Landing-Page-CCXP"
             site="https://landing-page-ccxp-one.vercel.app/"
                 />
             <Cards
@@ -33,7 +33,7 @@ function Projects(){
             title="Meu Portfólio"
             tech="React"
             description="Este é o meu portfólio em React.JS"
-            repo="https://github.com/odranoeL6/portfolio-react"
+            repo="https://github.com/leodacosta/portfolio-react"
             site="https://portfolio-react-rosy-alpha.vercel.app/"
                 />
             <Cards
@@ -41,7 +41,7 @@ function Projects(){
             title="Planejador Diário"
             tech="React"
             description="Interface de lista de tarefas sendo um planejador diário, possível de edição de tarefa e seu status"
-            repo="https://github.com/odranoeL6/react-js-interface"
+            repo="https://github.com/leodacosta/react-js-interface"
             site="https://tasklist-bay.vercel.app/"
                 />
             <Cards
@@ -49,7 +49,7 @@ function Projects(){
             title="Movie List"
             tech="React, SASS, Vite e React Router"
             description="Lista de filmes criada usando React.js que possibilita o usuário procurar por filmes, utilizando uma API do site The Movie DB"
-            repo="https://github.com/odranoeL6/movie-list"
+            repo="https://github.com/leodacosta/movie-list"
             site="https://movie-list-mu-three.vercel.app/"
                 />
 

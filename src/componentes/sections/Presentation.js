@@ -47,7 +47,7 @@ function Presentation(){
                 de resolver situações complexas e trazer resultados para as pessoas que buscam o meu trabalho. <br/>
                 Abaixo, se é possível ver alguns de meus projetos.
             </p>
-            <ButtonA link='https://github.com/odranoeL6' text='Conecte-se comigo!'/>
+            <ButtonA link='https://github.com/leodacosta' text='Conecte-se comigo!'/>
         </div>
     )
 }
