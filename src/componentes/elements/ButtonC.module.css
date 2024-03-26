@@ -1,17 +1,16 @@
 .btn{
-    background-color: #2c2c2c;
-    color: aliceblue;
+    background-color: #ffffff;
     border: none;
     padding: 10px;
     border-radius: 10px;
     font-weight: bolder;
     margin-top: 15px;
+    margin-left: 43%;
     cursor: pointer;
-    margin: auto;
-    display: block;
 }
 
 .btn:hover{
+    color: aliceblue;
     background-color: #ff0000;
     transform: translateY(-5px);
     transition-duration: 0.75s;
