@@ -1,6 +1,6 @@
 .skill{
     border-radius: 10px;
-    background: rgba(1, 9, 28, 0.75);
+    background: #211522;
     margin: 75px;
     padding: 25px;
     filter: drop-shadow(0px 4px 4px rgba(0, 0, 0.25, 0.25));
@@ -11,6 +11,10 @@
     margin: 25px;
     filter: drop-shadow(0px 4px 4px rgba(0, 0, 0.25, 0.25));
     transition-duration: 0.75s;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
 }
 
 .skill img:hover{
@@ -22,8 +26,10 @@
 
 .skill h1{
     font-size: 45px;
+    padding-left: 75px;
 }
 
 .skill p{
     font-size: 20px;
+    padding-left: 75px;
 }

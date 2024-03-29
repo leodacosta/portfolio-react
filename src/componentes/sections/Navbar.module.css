@@ -15,5 +15,7 @@
 }
 
 .navbar a{
-    color: aliceblue !important;
+    color: #fafafa !important;
+    text-decoration: none;
+    cursor: pointer;
 }

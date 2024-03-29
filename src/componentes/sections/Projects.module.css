@@ -5,4 +5,10 @@
 
 .projects h1{
     font-size: 45px;
+    text-align: center;
+}
+
+.projects ui{
+    font-size: 45px;
+    text-align: center;
 }

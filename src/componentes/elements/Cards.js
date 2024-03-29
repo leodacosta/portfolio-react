@@ -2,7 +2,7 @@ import styles from './Cards.module.css';
 import ButtonB from './ButtonB'
 import {useState} from 'react';
 
-function Cards({img, title, tool, description, repo, site}){
+function Cards({img, title, tool, description, concept, site}){
 
     const [info, setInfo] = useState(false)
 
@@ -25,7 +25,7 @@ function Cards({img, title, tool, description, repo, site}){
                 <h3> {title} </h3>
                 <p> <strong> Ferramenta(s): </strong> {tool} </p>
                 <p> {description} </p>
-                <ButtonB text='Acesse este repositório' link={repo}/>
+                <ButtonB text='Veja esta concepção' link={concept}/>
             </section>
             )}
 

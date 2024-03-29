@@ -1,5 +1,6 @@
 .btn{
-    background-color: #ffffff;
+    background-color: #fafafa;
+    color: #101010;
     border: none;
     padding: 10px;
     border-radius: 10px;
@@ -10,8 +11,9 @@
 }
 
 .btn:hover{
-    color: aliceblue;
-    background-color: #ff0000;
+    color: #fafafa;
+    background-color: #101010;
     transform: translateY(-5px);
     transition-duration: 0.75s;
+    border: 1.5px groove #fafafa;
 }
